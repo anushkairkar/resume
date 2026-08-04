@@ -21,7 +21,7 @@ Flutter Developer passionate about building scalable cross-platform mobile appli
 - Firebase
 - REST APIs
 - BLoC
-- Provider
+  Sqflite
 - Clean Architecture
 - Git, GitHub, GitLab
 
